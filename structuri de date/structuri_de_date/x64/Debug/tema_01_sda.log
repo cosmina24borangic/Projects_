@@ -1,0 +1,111 @@
+﻿  App.cpp
+  IteratorMultime.cpp
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(13,15): error C2011: 'Multime': 'class' type redefinition
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\IteratorMultime.h(13): message : see declaration of 'Multime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\IteratorMultime.cpp(5,18): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\IteratorMultime.cpp(5,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\IteratorMultime.cpp(5,62): error C2550: '{ctor}': constructor initializer lists are only allowed on constructor definitions
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\IteratorMultime.cpp(7,1): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\IteratorMultime.cpp(9,24): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\IteratorMultime.cpp(9,40): error C2270: 'element': modifiers not allowed on nonmember functions
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\IteratorMultime.cpp(14,23): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\IteratorMultime.cpp(14,37): error C2270: 'valid': modifiers not allowed on nonmember functions
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\IteratorMultime.cpp(19,23): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\IteratorMultime.cpp(23,23): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+  Multime.cpp
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\IteratorMultime.h(13,15): error C2011: 'Multime': 'class' type redefinition
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(13): message : see declaration of 'Multime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.cpp(17,10): error C2027: use of undefined type 'Multime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(13): message : see declaration of 'Multime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.cpp(17,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.cpp(19,1): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.cpp(22,15): error C2027: use of undefined type 'Multime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(13): message : see declaration of 'Multime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.cpp(28,15): error C2027: use of undefined type 'Multime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(13): message : see declaration of 'Multime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.cpp(34,15): error C2027: use of undefined type 'Multime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(13): message : see declaration of 'Multime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.cpp(34,39): error C2270: 'cauta': modifiers not allowed on nonmember functions
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.cpp(40,14): error C2027: use of undefined type 'Multime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(13): message : see declaration of 'Multime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.cpp(40,26): error C2270: 'dim': modifiers not allowed on nonmember functions
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.cpp(47,15): error C2027: use of undefined type 'Multime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(13): message : see declaration of 'Multime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.cpp(47,28): error C2270: 'vida': modifiers not allowed on nonmember functions
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.cpp(52,26): error C2027: use of undefined type 'Multime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(13): message : see declaration of 'Multime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.cpp(52,43): error C2270: 'iterator': modifiers not allowed on nonmember functions
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.cpp(52,43): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\IteratorMultime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.cpp(52,43): error C2079: 'iterator' uses undefined class 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.cpp(52,34): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\IteratorMultime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.cpp(53,26): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.cpp(53,24): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\IteratorMultime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.cpp(57,11): error C2027: use of undefined type 'Multime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(13): message : see declaration of 'Multime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.cpp(57,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.cpp(59,1): warning C4508: '{dtor}': function should return a value; 'void' return type assumed
+  TestExtins.cpp
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(17,18): error C2079: 'im' uses undefined class 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(17,24): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(17,21): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(34,18): error C2079: 'im2' uses undefined class 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(34,26): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(34,22): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(52,18): error C2079: 'im' uses undefined class 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(52,24): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(52,21): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(155,18): error C2079: 'im' uses undefined class 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(155,24): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(155,21): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(163,18): error C2079: 'im2' uses undefined class 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(163,25): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(163,22): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(180,18): error C2079: 'im3' uses undefined class 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(180,26): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(180,22): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(195,18): error C2079: 'im4' uses undefined class 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(195,26): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(195,22): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(217,18): error C2079: 'im' uses undefined class 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(217,24): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestExtins.cpp(217,21): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+  TestScurt.cpp
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestScurt.cpp(14,18): error C2079: 'im1' uses undefined class 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestScurt.cpp(14,26): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestScurt.cpp(14,22): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestScurt.cpp(21,3): error C2660: 'rel': function does not take 1 arguments
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(9,6): message : see declaration of 'rel'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestScurt.cpp(47,18): error C2079: 'im' uses undefined class 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestScurt.cpp(47,24): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestScurt.cpp(47,21): error C2027: use of undefined type 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(11): message : see declaration of 'IteratorMultime'
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\TestScurt.cpp(54,3): error C2660: 'rel': function does not take 1 arguments
+C:\Users\Cosmina\source\repos\tema_01_sda\tema_01_sda\Multime.h(9,6): message : see declaration of 'rel'
+  Generating Code...
