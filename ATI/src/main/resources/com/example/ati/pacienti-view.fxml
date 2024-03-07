@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.ati.PacientController">
+   <children>
+      <TableView fx:id="pacientiTableView" layoutX="117.0" layoutY="61.0" prefHeight="199.0" prefWidth="367.0">
+        <columns>
+          <TableColumn fx:id="idColumn" prefWidth="139.0" text="id" />
+          <TableColumn fx:id="diagnosticColumn" prefWidth="227.0" text="diagnostic" />
+        </columns>
+      </TableView>
+      <Button fx:id="ticButton" layoutX="205.0" layoutY="305.0" mnemonicParsing="false" onAction="#onTicSelect" text="TIC" />
+      <Button fx:id="tiipButton" layoutX="354.0" layoutY="305.0" mnemonicParsing="false" onAction="#onTiipSelect" text="TIIP" />
+      <Button fx:id="timButton" layoutX="280.0" layoutY="305.0" mnemonicParsing="false" onAction="#onTimSelect" text="TIM" />
+   </children>
+</AnchorPane>
